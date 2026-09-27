@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/readme-banner.jpg" alt="Heart disease prediction project overview" width="100%" />
+</p>
+
 # Heart Disease Prediction
 
 A machine-learning project that predicts whether a patient is likely to have heart disease from clinical measurements and examination data. The project is implemented as a Jupyter Notebook and compares several classification models after data cleaning, feature engineering, encoding, and scaling.
